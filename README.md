@@ -10,7 +10,7 @@ Specifically, this app includes
 
 ## Deployment
 
-- Deployed using Netlify
+- Deployed using Cyclic
 
 ## Getting Started
 
